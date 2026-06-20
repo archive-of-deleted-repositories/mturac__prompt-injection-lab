@@ -1,7 +1,11 @@
 {
   "name": "prompt-injection-lab",
   "version": "1.0.0",
-  "description": "Live prompt injection attack demos for agent security training and consulting.",
+  "description": "Hands-on prompt injection lab with live attack demos for agent, MCP, and memory poisoning training.",
+  "author": "Mehmet Turac (https://github.com/mturac)",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/mturac/prompt-injection-lab.git" },
+  "homepage": "https://github.com/mturac/prompt-injection-lab#readme",
   "type": "module",
   "scripts": {
     "dev": "next dev -p 3105",

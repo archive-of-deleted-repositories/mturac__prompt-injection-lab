@@ -1,6 +1,8 @@
 # prompt-injection-lab
 
-> Live prompt injection attack demos for agent security training and consulting.
+> Hands-on prompt injection lab with live attack demos for agent, MCP, and memory poisoning training.
+
+**Topics:** `prompt-injection` · `ai-security` · `llm-security` · `red-team` · `security-training` · `mcp` · `agent-security`
 
 ![Screenshot](docs/screenshot.png)
 
@@ -22,4 +24,8 @@ npm test
 
 ## License
 
-MIT
+MIT — see [LICENSE](LICENSE).
+
+## Author
+
+**Mehmet Turac** — [github.com/mturac](https://github.com/mturac)
