@@ -1,7 +1,7 @@
 {
   "name": "prompt-injection-lab",
   "version": "1.0.0",
-  "description": "prompt-injection-lab",
+  "description": "Live prompt injection attack demos for agent security training and consulting.",
   "type": "module",
   "scripts": {
     "dev": "next dev -p 3105",
